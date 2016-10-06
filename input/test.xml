@@ -1,0 +1,7 @@
+<page><title>A</title><text> [[B]] [[D]] [[A]] </text></page> 
+<page><title>B</title><text> </text></page> 
+<page><title>D</title><text> [[C]] </text></page> 
+<page><title>E</title><text> </text></page>
+<page><title>F</title><text> [[D|B]] [[G]] </text></page>
+<page><title>H</title><text> [[F]] </text></page>
+<page><title>G</title><text> [[D|C]] [[C]] </text></page>ss
